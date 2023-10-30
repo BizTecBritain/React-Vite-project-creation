@@ -1,4 +1,4 @@
-# React Vite project creation
+# React Vite project creation and Github Pages Upload
 1. Install Node.js with all dependencies
 2. Open react folder in cmd (ADMIN)
 3. Run the following
